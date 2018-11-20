@@ -1,2 +1,4 @@
 # Mano-Robotica
-Proyecto "Hazlo Tu mismo" sobre mano robótica controlada por mano real
+Proyecto "Hazlo Tu mismo" sobre mano robótica controlada por mano real 
+
+By @DuvanP
